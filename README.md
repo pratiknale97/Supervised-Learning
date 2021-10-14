@@ -26,10 +26,10 @@ This project will be focusing on training and assessing a machine learning model
 
 -> Linear Regression
 
-1.Linear relationship
-2.Types of correlation
-3.Assumptions of Linear regressions
-4.Errors and Best Fit Line
+1. Linear relationship
+2. Types of correlation
+3. Assumptions of Linear regressions
+4. Errors and Best Fit Line
 
 ->  Logistic regression
 1. Logistic function & Sigmoid Curve
